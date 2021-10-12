@@ -1,0 +1,7 @@
+The fundamental concept in this project is attendance maintenance, which is used to generate
+reports and create leave report forms. Everything has been computerized in our age of everincreasing technologies. The Human workforce has grown as a result of the abundance of job
+options. As a result, a system that can handle the data of such a vast number of employees in an
+organization is required. Because of its user-friendly design, this project makes maintaining
+records easier. The " ATTENDANCE MANAGEMENT SYSTEM" is created to address the
+issues that plagued the previous manual system. This software is being developed in order to
+minimize and, in some cases, reduce the difficulties that the present system is experiencing
